@@ -18,6 +18,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Goroutines: Solving the problem of efficient multithreading](https://dev.to/parthlaw/goroutines-solving-the-problem-of-efficient-multithreading-3oic)
+- [Object-Oriented Go: Unraveling the Power of OOP in Golang](https://dev.to/parthlaw/object-oriented-go-unraveling-the-power-of-oop-in-golang-49h6)
+- [I/O Streams in Java: Understanding Blocking and Non-blocking Paradigms](https://dev.to/parthlaw/io-streams-in-java-understanding-blocking-and-non-blocking-paradigms-3oj3)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
