@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Parth Lawania</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthlaw&label=Profile%20views&color=0e75b6&style=flat" alt="parthlaw" /> </p>
 
 <!-- - 🔭 I’m currently working on **CovidHelp** -->
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Design Principles**
 
-- 👯 I’m looking to collaborate on **web-dev and python projects**
+- 👯 I’m looking to collaborate on **Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://parthlaw.tech/](https://parthlaw.tech/)
+- 👨‍💻 All of my projects are available at [https://parthlaw.tech/resume.pdf](https://parthlaw.tech/resume.pdf)
 
-- 💬 Ask me about **Javascript,React,Node,Express**
+- 💬 Ask me about **Javascript, Typescript, Java, Golang, Python, React, Node,Express, Spring boot, AWS, GCP, Websockets, Architecture Design, Sockets**
 
 - 📫 How to reach me **parthlaw24@gmail.com**
 
